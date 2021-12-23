@@ -1,4 +1,4 @@
-🤖 ```Welcome``` **to my** ```Space```
+🤖 **Welcome To My Space**
 - 👋 I'm *Tony*
 - 🎓 ```G27 CodeClan Alumni```
 - 🌱 I'm learning to code **everyday**
