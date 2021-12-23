@@ -1,6 +1,6 @@
 🤖 ```Welcome``` **to my** ```Space```
 - 👋 I'm *Tony*
-- 🎓 CodeClan Alumni: G27
+- 🎓 ```G27 CodeClan Alumni```
 - 🌱 I'm learning to code **everyday**
 - 📮 You can reach me on [LinkedIn](https://www.linkedin.com/in/anthony-byledbal/)
 
