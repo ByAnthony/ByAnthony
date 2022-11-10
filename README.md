@@ -9,6 +9,6 @@
 * 🪖 [New Zealand Tunnellers Web App](https://www.nztunnellers.com)
 * 🤝 [Friends of the &icirc;lot of La Boisselle Web App](https://www.ilotdelaboisselle.com)
 
-  #### 📖 **CodeClan Projects:**
+  #### 📖 **Experiments:**
   * 🕹️ [Code Breaker Video Game](https://github.com/PrinsWillem/CodeBreaker)
   * 🏰 [Castle Card Game](https://github.com/PrinsWillem/castle_game_project)
