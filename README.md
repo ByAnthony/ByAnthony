@@ -7,6 +7,6 @@
 
 🛠️ **Cool Projects I Work(ed) On**
 * 🪖 [New Zealand Tunnellers Web App](https://www.nztunnellers.com)
-* 🤝 [Friends of the &icirc;lot of La Boisselle Web App](https://www.ilotdelaboisselle.com)
+* 🤝 [Friends of the &icirc;lot of La Boisselle Website](https://www.ilotdelaboisselle.com)
 * 🕹️ [Code Breaker Video Game](https://github.com/PrinsWillem/CodeBreaker)
 * 🏰 [Castle Card Game](https://github.com/PrinsWillem/castle_game_project)
