@@ -5,7 +5,7 @@
 * 🌱 Always **learning** and **building**
 * 📮 You can reach me on [LinkedIn](https://www.linkedin.com/in/anthony-byledbal/)
 
-### 🛠️ Cool Projects I have Worked On
+### Cool Projects I have Worked On
 
 #### 🪖 [New Zealand Tunnellers — Historical Research Web App](https://www.nztunnellers.com)
 An interactive historical project exploring the New Zealand Tunnellers, specialised soldiers who served beneath no man's land in France during World War I (1914-1918).
