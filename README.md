@@ -17,4 +17,4 @@ A website supporting historical, archaeological, and educational work connected 
 A small 2D game based on the real story of Alec Rogers, a post-Second World War wireless telegraphist aboard a Royal Navy ship.
 
 #### 🏰 [Castle Card Game](https://github.com/PrinsWillem/castle_game_project)
-An original educational game created by Loïc Marles and designed by Anthony Byledbal, built to help players learn more about medieval castles. Originally planned as a physical card game, it later found new life as a digital project.
+An original educational game created by Loïc Marles and designed by Anthony Byledbal, built to help players learn more about medieval castles. Originally planned as a physical card game, it later found new life as one of my bootcamp projects.
