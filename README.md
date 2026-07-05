@@ -1,6 +1,6 @@
 ## 🤖 Welcome To My Space
 * 👋 I'm *Tony*
-* 🎓 ```G27 CodeClan Alumni```
+* 🎓 ```G27 [CodeClan](https://codeclan.com) Alumni```
 * 🛠️ Software Engineer at [Skyscanner](https://github.com/Skyscanner)
 * 🌱 Always **learning** and **building**
 * 📮 You can reach me on [LinkedIn](https://www.linkedin.com/in/anthony-byledbal/)
